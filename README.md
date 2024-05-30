@@ -1,2 +1,2 @@
 # Landing-page
-landing page of clothimg items
+landing page of clothing items
